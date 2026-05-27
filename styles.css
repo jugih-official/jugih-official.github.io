@@ -217,6 +217,10 @@ a {
   background: var(--panel-solid);
 }
 
+.card h3 {
+  overflow-wrap: anywhere;
+}
+
 .card-meta {
   display: flex;
   flex-wrap: wrap;
